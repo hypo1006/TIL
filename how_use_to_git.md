@@ -45,4 +45,4 @@ Local Repository에 반영된 파일들을 원격저장소에 보냄.
 
 ![실습2](https://user-images.githubusercontent.com/116232686/198332717-c1ce2070-ca1c-4f1f-8f6b-fb66a7c61e56.jpg)  
 
-![실습3](https://user-images.githubusercontent.com/116232686/198332723-96a60589-8816-4247-a431-c77508c01803.jpg)
+![실습3](https://user-images.githubusercontent.com/116232686/198332723-96a60589-8816-4247-a431-c77508c01803.jpg)ㄴ
