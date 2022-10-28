@@ -11,7 +11,7 @@ git remote add test
 
 3. 원격저장소 내려받기  
 git pull  
-//이것만 모르겠음....
+
 
 >브랜치  
 1. 브랜치 생성  
