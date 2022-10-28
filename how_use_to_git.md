@@ -2,15 +2,16 @@
 
 >원격저장소  
 1. 원격저장소 등록  
-git clone [원격저장소 주소]  
-//깃허브에 있는 원격 저장소를 클론을 통해 연동
+git remote add document  
+//document라는 원격 저장소 등록
 
 2. 원격저장소 추가  
 git remote add test  
 //test라는 원격 저장소 추가  
 
 3. 원격저장소 내려받기  
-git pull  
+git clone [원격저장소 주소]  
+//깃허브에 있는 원격 저장소를 클론을 통해 내려받음
 
 
 >브랜치  
